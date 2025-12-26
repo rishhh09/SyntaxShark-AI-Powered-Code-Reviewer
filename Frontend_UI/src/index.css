@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import "tailwindcss";
+
+:root {
+    --font-source: "Source Code Pro", sans-serif;
+
+    --animate-scan: scan 3s linear infinite;
+
+    @keyframes scan {
+        0% {
+            top: 0%;
+        }
+
+        100% {
+            top: 100%;
+        }
+    }
+}
+
+body {
+    background-image: url('/background-2.jpg');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    min-height: 100vh;
+    margin: 0;
+
+    color: white;
+}
+
+.nav-bg {
+    background: rgba(114, 139, 194, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(114, 139, 194, 0.3);
+}
