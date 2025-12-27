@@ -1,12 +1,12 @@
 # 🦈 SyntaxShark - AI-Powered Code Reviewer
 
-![SyntaxShark Banner]<img width="1843" height="933" alt="image" src="https://github.com/user-attachments/assets/281368bf-afb5-4857-a9b5-6e973bebcfcc" />
+<img width="1843" height="933" alt="image" src="https://github.com/user-attachments/assets/281368bf-afb5-4857-a9b5-6e973bebcfcc" />
+<img width="1869" height="936" alt="image" src="https://github.com/user-attachments/assets/a36b40af-fef6-490d-b905-9b8e6775f9bb" />
 
-*(Optional: Replace this link with a screenshot of your Home Page later)*
 
 **SyntaxShark** is a Full-Stack SaaS application that automates code reviews using the power of Generative AI. It acts as an intelligent coding assistant, providing real-time feedback, bug fixes, and best practice suggestions for developers.
 
-> **Live Demo:** [Insert your Vercel Link Here]
+> **Live Demo:** (https://syntax-shark-ai-powered-code-review.vercel.app/MainUI)
 
 ---
 
