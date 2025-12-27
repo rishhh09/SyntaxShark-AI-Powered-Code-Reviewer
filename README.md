@@ -1,6 +1,7 @@
 # 🦈 SyntaxShark - AI-Powered Code Reviewer
 
-![SyntaxShark Banner](https://via.placeholder.com/1200x400.png?text=SyntaxShark+AI+Code+Reviewer)
+![SyntaxShark Banner]<img width="1843" height="933" alt="image" src="https://github.com/user-attachments/assets/281368bf-afb5-4857-a9b5-6e973bebcfcc" />
+
 *(Optional: Replace this link with a screenshot of your Home Page later)*
 
 **SyntaxShark** is a Full-Stack SaaS application that automates code reviews using the power of Generative AI. It acts as an intelligent coding assistant, providing real-time feedback, bug fixes, and best practice suggestions for developers.
