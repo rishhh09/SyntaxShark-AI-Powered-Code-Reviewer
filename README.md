@@ -6,7 +6,7 @@
 
 **SyntaxShark** is a Full-Stack SaaS application that automates code reviews using the power of Generative AI. It acts as an intelligent coding assistant, providing real-time feedback, bug fixes, and best practice suggestions for developers.
 
-> **Live Demo:** (https://syntax-shark-ai-powered-code-review.vercel.app/MainUI)
+> **Live Demo:** (https://syntax-shark-ai-powered-code-review.vercel.app)
 
 ---
 
